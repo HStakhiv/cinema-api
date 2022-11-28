@@ -8,7 +8,7 @@ Install PostgresSQL and create db
 
 ```shell
 git clone https://github.com/HStakhiv/cinema-api.git
-cd cinema_api
+cd cinema-api
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
